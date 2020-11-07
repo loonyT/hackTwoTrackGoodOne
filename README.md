@@ -7,7 +7,7 @@
 - [Definition-of-the-project](#Definition-of-the-project)
 - [Mockup](#Mockup)
 - [Charte-graphique](#Charte-graphique)
-- [Steps](#Steps)
+- [Brainstorming](#Brainstorming)
 - [Data-details](#Data-details)
 - [Schéma-de-base-de-données](#Schéma-de-base-de-données)
 - [Must-have-features](#Must-have-features)
@@ -36,14 +36,9 @@ Creation of a solution to protect wildlife
 
 ## Charte-graphique
 
-## Steps
+## Brainstorming
 
-1.
-2.
-3.
-4.
-5.
-6.
+[We use the miro tool to brainstorm](https://miro.com/app/board/o9J_lflPcVQ=/)
 
 ## Data-details
 
